@@ -8,5 +8,5 @@ This is a self learning project based on a [tutorial] (https://www.youtube.com/p
 ##### CustomRLenv.ipynb : 
  - We also create a custom enviroment with agents to play a blob game with Q learning.
 
-#### DQN.ipynb :
+##### DQN.ipynb :
  - Addressing the limitations of Q learning and table size being humongous as actionspace increases, we explore the same game with few modifications using Neural Networks with Deep Reinforcement Learning (this is a colab notebook)
