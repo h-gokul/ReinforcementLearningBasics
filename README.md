@@ -5,7 +5,7 @@ This is a self learning project based on a [tutorial] (https://www.youtube.com/p
 ##### ReachtheHill.ipynb :
  - We learn a simple hill climbing problem from the openAI gym modules in the notebook 
 
-##### CustomRLenve.ipynb : 
+##### CustomRLenv.ipynb : 
  - We also create a custom enviroment with agents to play a blob game with Q learning.
 
 #### DQN.ipynb :
